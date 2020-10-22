@@ -17,7 +17,8 @@ core
 # custom module, theme, etc., are not ignored unless you purposely do so.
 /vendor/
 
-modules/contrib
+
+/web/modules/contrib/
 
 # Ignore configuration files that may contain sensitive information.
 sites/*/settings*.php
